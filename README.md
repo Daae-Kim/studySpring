@@ -17,4 +17,4 @@ git add .
 git commit -m "Initial commit"
 git push -u origin master
 
-# intellij로 커밋을해보자
+# intellij로 커밋을해보자2
