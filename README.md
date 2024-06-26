@@ -16,3 +16,5 @@ git remote add origin https://kdt-gitlab.elice.io/cloud_track/class_04/class_041
 git add .
 git commit -m "Initial commit"
 git push -u origin master
+
+# intellij로 커밋을해보자
